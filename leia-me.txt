@@ -1,0 +1,35 @@
+/********************************************************************
+* Block XP-Radio v. 1.20 Adapté à Xoops par LLaumgui pour XPerience-Fr
+* http://www.xperience-fr.net
+*
+* Module sous licence gpl
+*********************************************************************/
+
+Installation:
+------------
+
+Pour l'installation, faites comme pour tout autres modules.
+
+Réglages:
+--------
+
+Mais pour régler la station de radio par défaut, aller dans l'admin du bloc:
+"Système/Blocs/XP-Radio/Editer".
+
+
+
+
+Historique du module:
+--------------------
+
+ * 01/04/03 - XP-radio 1.2:
+   - Refonte totale du code php de la partie popup, afin de faciliter les éventuels ajout de stations.
+   - Ajout de stations de radio: France Info, Nostalgie, RTL, RTL2, Europe1, Radio énergie (Quebec), Contact FM (Belgique).
+   - Support de divers langues amélioré.
+   
+ * 27/03/03 - XP-Radio 1.1: 
+    - Suppression du lecteur quand la station par défaut est aucune.
+    - Corrections de bugs minimes...
+
+ * 26/03/03 - XP-Radio 1.0: 
+    - Première version stable d'XP-Radio
